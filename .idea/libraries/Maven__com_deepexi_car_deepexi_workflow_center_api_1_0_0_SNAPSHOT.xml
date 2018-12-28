@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.deepexi:car-deepexi-workflow-center-api:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/deepexi/car-deepexi-workflow-center-api/1.0.0-SNAPSHOT/car-deepexi-workflow-center-api-1.0.0-20181014.142341-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/deepexi/car-deepexi-workflow-center-api/1.0.0-SNAPSHOT/car-deepexi-workflow-center-api-1.0.0-20181014.142341-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/deepexi/car-deepexi-workflow-center-api/1.0.0-SNAPSHOT/car-deepexi-workflow-center-api-1.0.0-20181014.142341-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

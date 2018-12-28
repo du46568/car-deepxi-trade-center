@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/car-deepexi-trade-center.iml" filepath="$PROJECT_DIR$/car-deepexi-trade-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-deepexi-trade-center-api/car-deepexi-trade-center-api.iml" filepath="$PROJECT_DIR$/car-deepexi-trade-center-api/car-deepexi-trade-center-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/car-deepexi-trade-center-provider/car-deepexi-trade-center-provider.iml" filepath="$PROJECT_DIR$/car-deepexi-trade-center-provider/car-deepexi-trade-center-provider.iml" />
+    </modules>
+  </component>
+</project>
